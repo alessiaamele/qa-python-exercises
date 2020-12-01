@@ -1,1 +1,0 @@
-print("Bienvenue au gala")
